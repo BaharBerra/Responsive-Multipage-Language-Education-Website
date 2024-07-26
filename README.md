@@ -3,7 +3,6 @@ This project, LANGUBUBU, is a fully responsive, multi-page language education we
 
 This website, called LANGUBUBU. Bubu is my nickname, and I add it to my projects as a signature, reflects my personal touch and dedication to creating quality web projects.
 
-
 ## Features
 
 - **Responsive Navbar**: An animated menu toggle for easy navigation on various devices.
@@ -19,10 +18,31 @@ This website, called LANGUBUBU. Bubu is my nickname, and I add it to my projects
 
 ## Pages
 
-1. **Home Page**
-2. **About Page**
-3. **Courses Page**
-4. **Contact Page**
+1. **Home Page**:
+
+   ![Ekran görüntüsü 2024-07-26 170349](https://github.com/user-attachments/assets/baa2922d-2cd0-44d3-8989-33c337233647)
+
+      **Responsive-Design**
+   
+      https://github.com/user-attachments/assets/b534adb6-5d35-486b-a955-4138a5a93a5c
+
+
+
+   
+3. **About Page**:
+
+   ![Ekran görüntüsü 2024-07-26 170331](https://github.com/user-attachments/assets/a725f4ec-caa5-46f9-9b1e-4c134f77aad0)
+   ![Ekran görüntüsü 2024-07-26 170339](https://github.com/user-attachments/assets/8b136bde-eab4-4879-ba5b-388229374c2b)
+
+   
+5. **Courses Page**:
+   
+   ![Ekran görüntüsü 2024-07-26 170314](https://github.com/user-attachments/assets/84583890-61f7-42e5-9bac-5e0cc6a6f494)
+
+6. **Contact Page**:
+   
+   ![Ekran görüntüsü 2024-07-26 170305](https://github.com/user-attachments/assets/8d31dde8-0485-4e7c-928e-384d8db3f6cc)
+
 
 ## Technologies Used
 
